@@ -1,12 +1,14 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+-  Excellent Graduate, Tsinghua University, 2026.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Silver Award, Shing-Tung Yau College Student Mathematics Contest (Team Competition), 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- First-Prize Scholarship of Qiuzhen College, Tsinghua University, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- Honorable Mention, Shing-Tung Yau College Student Mathematics Contest (Analysis and Differential Equations Track), 2024.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Second-Prize Scholarship of Qiuzhen College, Tsinghua University, 2024.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Honorable Mention, Shing-Tung Yau College Student Mathematics Contest (Analysis and Differential Equations Track), 2023.
+
+- Gold Medal, Chinese Mathematical Olympiad (CMO), 2021.
