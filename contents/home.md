@@ -2,7 +2,7 @@
 
 
 
-I am Mingyuan Sehn, currently a Ph.D. student at Qiuzhen College, Tsinghua University.
+I am Mingyuan Shen, currently a Ph.D. student at Qiuzhen College, Tsinghua University.
 
 #### Contact
 
