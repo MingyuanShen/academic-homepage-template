@@ -14,4 +14,4 @@ B.S. in Mathematics, Qiuzhen College, Tsinghua University, 2022—2026.
 
 
 #### Research Interests
-Probability Theory, Interacting Particle Systems and Branching Processes
+Probability Theory： Interacting Particle Systems and Branching Processes
