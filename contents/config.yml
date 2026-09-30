@@ -9,7 +9,7 @@ background-overlay: 0.52
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Mingyuan Shen&ensp;|&ensp;申鸣远
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
